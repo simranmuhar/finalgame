@@ -1,0 +1,2650 @@
+fileFormatVersion: 2
+guid: 3582c1129090f0742a284a75980bc11d
+timeCreated: 1511109829
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SNES - Super Adventure Island - Enemies_0
+    21300002: SNES - Super Adventure Island - Enemies_1
+    21300004: SNES - Super Adventure Island - Enemies_2
+    21300006: SNES - Super Adventure Island - Enemies_3
+    21300008: SNES - Super Adventure Island - Enemies_4
+    21300010: SNES - Super Adventure Island - Enemies_5
+    21300012: SNES - Super Adventure Island - Enemies_6
+    21300014: SNES - Super Adventure Island - Enemies_7
+    21300016: SNES - Super Adventure Island - Enemies_8
+    21300018: SNES - Super Adventure Island - Enemies_9
+    21300020: SNES - Super Adventure Island - Enemies_10
+    21300022: SNES - Super Adventure Island - Enemies_11
+    21300024: SNES - Super Adventure Island - Enemies_12
+    21300026: SNES - Super Adventure Island - Enemies_13
+    21300028: SNES - Super Adventure Island - Enemies_14
+    21300030: SNES - Super Adventure Island - Enemies_15
+    21300032: SNES - Super Adventure Island - Enemies_16
+    21300034: SNES - Super Adventure Island - Enemies_17
+    21300036: SNES - Super Adventure Island - Enemies_18
+    21300038: SNES - Super Adventure Island - Enemies_19
+    21300040: SNES - Super Adventure Island - Enemies_20
+    21300042: SNES - Super Adventure Island - Enemies_21
+    21300044: SNES - Super Adventure Island - Enemies_22
+    21300046: SNES - Super Adventure Island - Enemies_23
+    21300048: SNES - Super Adventure Island - Enemies_24
+    21300050: SNES - Super Adventure Island - Enemies_25
+    21300052: SNES - Super Adventure Island - Enemies_26
+    21300054: SNES - Super Adventure Island - Enemies_27
+    21300056: SNES - Super Adventure Island - Enemies_28
+    21300058: SNES - Super Adventure Island - Enemies_29
+    21300060: SNES - Super Adventure Island - Enemies_30
+    21300062: SNES - Super Adventure Island - Enemies_31
+    21300064: SNES - Super Adventure Island - Enemies_32
+    21300066: SNES - Super Adventure Island - Enemies_33
+    21300068: SNES - Super Adventure Island - Enemies_34
+    21300070: SNES - Super Adventure Island - Enemies_35
+    21300072: SNES - Super Adventure Island - Enemies_36
+    21300074: SNES - Super Adventure Island - Enemies_37
+    21300076: SNES - Super Adventure Island - Enemies_38
+    21300078: SNES - Super Adventure Island - Enemies_39
+    21300080: SNES - Super Adventure Island - Enemies_40
+    21300082: SNES - Super Adventure Island - Enemies_41
+    21300084: SNES - Super Adventure Island - Enemies_42
+    21300086: SNES - Super Adventure Island - Enemies_43
+    21300088: SNES - Super Adventure Island - Enemies_44
+    21300090: SNES - Super Adventure Island - Enemies_45
+    21300092: SNES - Super Adventure Island - Enemies_46
+    21300094: SNES - Super Adventure Island - Enemies_47
+    21300096: SNES - Super Adventure Island - Enemies_48
+    21300098: SNES - Super Adventure Island - Enemies_49
+    21300100: SNES - Super Adventure Island - Enemies_50
+    21300102: SNES - Super Adventure Island - Enemies_51
+    21300104: SNES - Super Adventure Island - Enemies_52
+    21300106: SNES - Super Adventure Island - Enemies_53
+    21300108: SNES - Super Adventure Island - Enemies_54
+    21300110: SNES - Super Adventure Island - Enemies_55
+    21300112: SNES - Super Adventure Island - Enemies_56
+    21300114: SNES - Super Adventure Island - Enemies_57
+    21300116: SNES - Super Adventure Island - Enemies_58
+    21300118: SNES - Super Adventure Island - Enemies_59
+    21300120: SNES - Super Adventure Island - Enemies_60
+    21300122: SNES - Super Adventure Island - Enemies_61
+    21300124: SNES - Super Adventure Island - Enemies_62
+    21300126: SNES - Super Adventure Island - Enemies_63
+    21300128: SNES - Super Adventure Island - Enemies_64
+    21300130: SNES - Super Adventure Island - Enemies_65
+    21300132: SNES - Super Adventure Island - Enemies_66
+    21300134: SNES - Super Adventure Island - Enemies_67
+    21300136: SNES - Super Adventure Island - Enemies_68
+    21300138: SNES - Super Adventure Island - Enemies_69
+    21300140: SNES - Super Adventure Island - Enemies_70
+    21300142: SNES - Super Adventure Island - Enemies_71
+    21300144: SNES - Super Adventure Island - Enemies_72
+    21300146: SNES - Super Adventure Island - Enemies_73
+    21300148: SNES - Super Adventure Island - Enemies_74
+    21300150: SNES - Super Adventure Island - Enemies_75
+    21300152: SNES - Super Adventure Island - Enemies_76
+    21300154: SNES - Super Adventure Island - Enemies_77
+    21300156: SNES - Super Adventure Island - Enemies_78
+    21300158: SNES - Super Adventure Island - Enemies_79
+    21300160: SNES - Super Adventure Island - Enemies_80
+    21300162: SNES - Super Adventure Island - Enemies_81
+    21300164: SNES - Super Adventure Island - Enemies_82
+    21300166: SNES - Super Adventure Island - Enemies_83
+    21300168: SNES - Super Adventure Island - Enemies_84
+    21300170: SNES - Super Adventure Island - Enemies_85
+    21300172: SNES - Super Adventure Island - Enemies_86
+    21300174: SNES - Super Adventure Island - Enemies_87
+    21300176: SNES - Super Adventure Island - Enemies_88
+    21300178: SNES - Super Adventure Island - Enemies_89
+    21300180: SNES - Super Adventure Island - Enemies_90
+    21300182: SNES - Super Adventure Island - Enemies_91
+    21300184: SNES - Super Adventure Island - Enemies_92
+    21300186: SNES - Super Adventure Island - Enemies_93
+    21300188: SNES - Super Adventure Island - Enemies_94
+    21300190: SNES - Super Adventure Island - Enemies_95
+    21300192: SNES - Super Adventure Island - Enemies_96
+    21300194: SNES - Super Adventure Island - Enemies_97
+    21300196: SNES - Super Adventure Island - Enemies_98
+    21300198: SNES - Super Adventure Island - Enemies_99
+    21300200: SNES - Super Adventure Island - Enemies_100
+    21300202: SNES - Super Adventure Island - Enemies_101
+    21300204: SNES - Super Adventure Island - Enemies_102
+    21300206: SNES - Super Adventure Island - Enemies_103
+    21300208: SNES - Super Adventure Island - Enemies_104
+    21300210: SNES - Super Adventure Island - Enemies_105
+    21300212: SNES - Super Adventure Island - Enemies_106
+    21300214: SNES - Super Adventure Island - Enemies_107
+    21300216: SNES - Super Adventure Island - Enemies_108
+    21300218: SNES - Super Adventure Island - Enemies_109
+    21300220: SNES - Super Adventure Island - Enemies_110
+    21300222: SNES - Super Adventure Island - Enemies_111
+    21300224: SNES - Super Adventure Island - Enemies_112
+    21300226: SNES - Super Adventure Island - Enemies_113
+    21300228: SNES - Super Adventure Island - Enemies_114
+    21300230: SNES - Super Adventure Island - Enemies_115
+    21300232: SNES - Super Adventure Island - Enemies_116
+    21300234: SNES - Super Adventure Island - Enemies_117
+    21300236: SNES - Super Adventure Island - Enemies_118
+    21300238: SNES - Super Adventure Island - Enemies_119
+    21300240: SNES - Super Adventure Island - Enemies_120
+    21300242: SNES - Super Adventure Island - Enemies_121
+    21300244: SNES - Super Adventure Island - Enemies_122
+    21300246: SNES - Super Adventure Island - Enemies_123
+    21300248: SNES - Super Adventure Island - Enemies_124
+    21300250: SNES - Super Adventure Island - Enemies_125
+    21300252: SNES - Super Adventure Island - Enemies_126
+    21300254: SNES - Super Adventure Island - Enemies_127
+    21300256: SNES - Super Adventure Island - Enemies_128
+    21300258: SNES - Super Adventure Island - Enemies_129
+    21300260: SNES - Super Adventure Island - Enemies_130
+    21300262: SNES - Super Adventure Island - Enemies_131
+    21300264: SNES - Super Adventure Island - Enemies_132
+    21300266: SNES - Super Adventure Island - Enemies_133
+    21300268: SNES - Super Adventure Island - Enemies_134
+    21300270: SNES - Super Adventure Island - Enemies_135
+    21300272: SNES - Super Adventure Island - Enemies_136
+    21300274: SNES - Super Adventure Island - Enemies_137
+    21300276: SNES - Super Adventure Island - Enemies_138
+    21300278: SNES - Super Adventure Island - Enemies_139
+    21300280: SNES - Super Adventure Island - Enemies_140
+    21300282: SNES - Super Adventure Island - Enemies_141
+    21300284: SNES - Super Adventure Island - Enemies_142
+    21300286: SNES - Super Adventure Island - Enemies_143
+    21300288: SNES - Super Adventure Island - Enemies_144
+    21300290: SNES - Super Adventure Island - Enemies_145
+    21300292: SNES - Super Adventure Island - Enemies_146
+    21300294: SNES - Super Adventure Island - Enemies_147
+    21300296: SNES - Super Adventure Island - Enemies_148
+    21300298: SNES - Super Adventure Island - Enemies_149
+    21300300: SNES - Super Adventure Island - Enemies_150
+    21300302: SNES - Super Adventure Island - Enemies_151
+    21300304: SNES - Super Adventure Island - Enemies_152
+    21300306: SNES - Super Adventure Island - Enemies_153
+    21300308: SNES - Super Adventure Island - Enemies_154
+    21300310: SNES - Super Adventure Island - Enemies_155
+    21300312: SNES - Super Adventure Island - Enemies_156
+    21300314: SNES - Super Adventure Island - Enemies_157
+    21300316: SNES - Super Adventure Island - Enemies_158
+    21300318: SNES - Super Adventure Island - Enemies_159
+    21300320: SNES - Super Adventure Island - Enemies_160
+    21300322: SNES - Super Adventure Island - Enemies_161
+    21300324: SNES - Super Adventure Island - Enemies_162
+    21300326: SNES - Super Adventure Island - Enemies_163
+    21300328: SNES - Super Adventure Island - Enemies_164
+    21300330: SNES - Super Adventure Island - Enemies_165
+    21300332: SNES - Super Adventure Island - Enemies_166
+    21300334: SNES - Super Adventure Island - Enemies_167
+    21300336: SNES - Super Adventure Island - Enemies_168
+    21300338: SNES - Super Adventure Island - Enemies_169
+    21300340: SNES - Super Adventure Island - Enemies_170
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 405
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 405
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 405
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 405
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 405
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 405
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 405
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 404
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 405
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 405
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 405
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 405
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 405
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 405
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 408
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 414
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 414
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 357
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 358
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 349
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 350
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 349
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 350
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 349
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 349
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 371
+        width: 30
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 365
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 365
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 367
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 366
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 367
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 366
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 366
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 366
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 368
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 253
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 253
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 254
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 245
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 245
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 245
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 245
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 245
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 245
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 245
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 245
+        width: 23
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 245
+        width: 23
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 245
+        width: 23
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 245
+        width: 23
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 248
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 246
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 246
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 246
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 246
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 197
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 201
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 205
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 204
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 197
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 200
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 209
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 203
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 197
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 201
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 205
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 204
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 197
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 200
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 209
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 203
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 141
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 141
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 141
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 141
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 141
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 141
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 141
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 141
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 141
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 143
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 141
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 141
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 146
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 146
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 146
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 109
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 109
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 109
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 110
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 110
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 109
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 109
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 109
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 109
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 110
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 110
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 109
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 46
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 46
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 46
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 46
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 45
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 45
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 45
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 45
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 45
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 45
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 45
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 45
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 64
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_151
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_152
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_153
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_154
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_155
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_156
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_157
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_158
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_159
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_160
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_161
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_162
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_163
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_164
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_165
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_166
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_167
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_168
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_169
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 408
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Adventure Island - Enemies_170
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 391
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
